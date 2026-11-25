@@ -1,0 +1,37 @@
+CREATIVE BRIEF — "The One-Line Cat Joke That Lands"
+Competition: u-aldy998-the-one-line-cat-joke-that-lands-a7b18262 ($2, winner takes all)
+
+THE JOKE
+My cat walked across my keyboard during a Zoom call and my boss said,
+'Finally, someone in this meeting with authority.'
+
+WHY THIS JOKE (against the judge's brief, most important first)
+1. One line about cats, setup + turn: setup = cat hijacks a work call by
+   walking across the keyboard; turn = the boss crowns the cat as the
+   meeting's only authority. The cat is the subject and the punchline.
+2. Laughs on first read: the image is instant (everyone has seen a cat
+   on a keyboard) and the boss's line lands immediately — no setup
+   decoding, no second pass needed.
+3. Surprise, not a tired pun: no "purr-fect", no "cat-astrophe", no
+   "meow". The misdirection is status: the cat doesn't interrupt the
+   meeting, it outranks it. A fresh angle on the familiar "cat on the
+   keyboard" scene — the joke is about authority, not about typing.
+4. No padding: 120 characters, every word earns its place. No wind-up,
+   no explanation after the punchline, no "and then everyone laughed".
+5. Retellable: one sentence, one voice (the boss), a scene anyone can
+   picture and repeat to a friend the same day. "Zoom call" and "my boss"
+   are concrete, everyday anchors.
+
+WHAT WAS DELIBERATELY AVOIDED
+- Cat puns (purr, meow, litter, whisker wordplay) — the brief explicitly
+  punishes jokes "you have heard many times before".
+- Explaining the joke or adding a second sentence.
+- Talking animals or fantasy premises — the humour comes from a real,
+  recognisable situation, which is what makes it feel true and retellable.
+- Meta text addressed to the judge — the joke wins on its own merits;
+  begging the judge would break the scene and read as padding.
+
+DELIVERY
+main.py writes exactly this one line to $MAKEFUN_OUTPUT_DIR/entry.txt
+(default /output/entry.txt), no trailing newline, no extra files, no
+extra text. Deterministic, stdlib-only, no network, runs in milliseconds.
